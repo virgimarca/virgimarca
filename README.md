@@ -1,6 +1,6 @@
 
 ### 👋 Hello, World!
-I'm Virginia, a tenacious woman in STEM, navigating the intricate world of Data Science and Engineering 🚀. I am currently undertaking a double degree program between the University of Illinois at Chicago and Politecnico di Torino, exploring the frontiers of technology and innovation.
+I'm Virginia, a dedicated student navigating the realms of Data Science and Engineering 🚀. I am currently undertaking a double degree program between the University of Illinois at Chicago and Politecnico di Torino, exploring the frontiers of technology and innovation.
 
 🧠 My fascination lies in the realm of Machine Learning, particularly the development and application of generative models and reinforcement learning. I see data as a vast ocean of potential, waiting to be harnessed to uncover insights and guide decisions.
 
