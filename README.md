@@ -6,7 +6,7 @@ I'm Virginia, a dedicated student navigating the realms of Data Science and Engi
 
 👩‍💻 As a proud female technologist, I'm committed to bringing diverse perspectives to the table in the creation and application of AI. I believe that each line of code we write is a brick in the foundation of our future, and I'm excited to help shape that future.
 
-In my free time, you might find me at a crocheting, delving into a new book, or advocating for more representation in STEM fields.
+In my free time, you might find me at a crocheting or delving into a new book.
 
 Feel free to reach out if you're interested in discussing data science, collaboration on exciting projects, or simply want to chat about the latest in tech!
 
